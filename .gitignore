@@ -1,0 +1,11 @@
+/.venv
+/convert_docx.py
+/extract_mupdf.py
+/extract_pdf.py
+/fix_notebook.py
+/generate_notebook.py
+/make_full_notebook.py
+/make_nb.py
+/pandoc-3.9-windows-x86_64.msi
+/pdf_output.txt
+/run.py
